@@ -188,7 +188,7 @@ li {
 
 .left-gb {
 	color: var(--GBTextLeftClr);
-	font-size: 0.7em;
+	font-size: 0.98em;
 }
 
 @media (min-width: 900px) {
