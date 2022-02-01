@@ -110,8 +110,9 @@ li {
 }
 
 .attribution a {
+	text-decoration: none;
 	font-size: 0.65rem;
-	color: hsl(228, 45%, 44%);
+	color: hsl(228, 100%, 78%);
 }
 
 @media (max-width: 375px) {
