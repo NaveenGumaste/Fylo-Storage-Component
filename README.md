@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My Solution](https://your-solution-url.com)
-- Live Site URL: [Fylo Data COmponent](https://monks-faq-accordion.netlify.app/)
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/fylostoragecomponent-fU8xrxsXT)
+- Live Site URL: [Fylo Data COmponent](https://monks-fylo-storage.netlify.app/)
 
 ## My process
 
