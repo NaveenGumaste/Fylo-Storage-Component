@@ -22,7 +22,6 @@ body {
 	background-repeat: no-repeat;
 	display: flex;
 	align-items: center;
-	cursor: pointer;
 	justify-content: center;
 	font-family: "Raleway", sans-serif;
 	font-size: 14px;
@@ -74,6 +73,7 @@ li {
 }
 
 .top__icons li {
+	cursor: pointer;
 	background-color: var(--GBNumberLeftClr);
 	border-radius: 10px;
 	padding: 15px;
@@ -169,6 +169,7 @@ li {
 	font-weight: 700;
 	border-radius: 10px;
 	text-align: center;
+	cursor: pointer;
 	z-index: 1;
 	text-transform: uppercase;
 	display: flex;
@@ -184,11 +185,13 @@ li {
 	color: var(--GBNumberLeftClr);
 	font-size: 2em;
 	margin-right: 5px;
+	cursor: pointer;
 }
 
 .left-gb {
 	color: var(--GBTextLeftClr);
 	font-size: 0.98em;
+	cursor: pointer;
 }
 
 @media (min-width: 900px) {
