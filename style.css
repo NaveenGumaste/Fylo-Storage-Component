@@ -22,6 +22,7 @@ body {
 	background-repeat: no-repeat;
 	display: flex;
 	align-items: center;
+	cursor: pointer;
 	justify-content: center;
 	font-family: "Raleway", sans-serif;
 	font-size: 14px;
