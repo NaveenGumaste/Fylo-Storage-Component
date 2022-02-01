@@ -7,7 +7,7 @@ This is a solution to the [Fylo data storage component challenge on Frontend Men
 - [Overview](#overview)
 
   - [The challenge](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n/hub/fylo-data-storage-component-GCBURsskB)
-  - [Screenshot](./images/MyDesk,JPG)
+  - [Screenshot](./images/MyDesk.JPG)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/MyDesk,JPG)
+![](./images/MyDesk.JPG)
 
 ### Links
 
